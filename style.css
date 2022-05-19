@@ -24,12 +24,8 @@ button {
     display: flex;
 }
 
-.box {
-    padding: 10px;
-    border: 3px solid black;
-}
+
 
 .hover {
-    padding: 0px;
-    border: 13px solid black;
+
 }
